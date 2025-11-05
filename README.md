@@ -131,5 +131,4 @@ yaml
 Copy code
 
 ---
-- Add a **“Live Demo” section** with a sample Streamlit Cloud link placeholder (so you can replace it later),  
-- or include a **small image preview badge** (for example a screenshot of the app UI once you deploy it)?
+

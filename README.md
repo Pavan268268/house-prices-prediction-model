@@ -115,7 +115,6 @@ Interactive correlation heatmap (EDA page)
 Model versioning and performance logging
 
 💡 About This Project
-This project was created to:
 
 Demonstrate full-cycle ML development (EDA → Model → App)
 
@@ -125,8 +124,6 @@ Showcase real-world data handling and deployment skills
 
 📬 Connect with Me
 👤 Pavan Mantena
-📧 [Your Email or LinkedIn Here]
-🌐 GitHub Profile
 
 ⭐ If you like this project, please give it a star on GitHub!
 
@@ -134,7 +131,5 @@ yaml
 Copy code
 
 ---
-
-Would you like me to:
 - Add a **“Live Demo” section** with a sample Streamlit Cloud link placeholder (so you can replace it later),  
 - or include a **small image preview badge** (for example a screenshot of the app UI once you deploy it)?

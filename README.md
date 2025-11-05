@@ -51,7 +51,7 @@ Copy code
 ## ⚙️ How to Run Locally
 
 ### 1️⃣ Clone the repository
-```bash
+bash
 git clone https://github.com/Pavan268268/house-prices-prediction-model.git
 cd house-prices-prediction-model
 2️⃣ Install dependencies
